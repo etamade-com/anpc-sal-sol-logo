@@ -3,7 +3,7 @@
 
 ### Afișare plachete suprapuse
 ![ANPC-SAL](anpc-sal.svg)
-![ANPC-SOL](anpc-sal.svg)
+![ANPC-SOL](anpc-sol.svg)
 
 ```html
 <div>
